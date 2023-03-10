@@ -17629,13 +17629,13 @@ opacity: 0.5;
 }
 
 .btn-primary{
-    background-color: #e6692b;
+    background-color: #106fce;
     color: white !important;
 }
 
 .btn-primary:hover{
-    background-color: #e4c5b5;
-    color: #e6692b !important;
+    background-color: #0553a1;
+    color: white !important;
     transition-delay: 0.2s;
 }
 
